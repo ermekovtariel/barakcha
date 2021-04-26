@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: School Zone Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wpschool
+Data file = C:\wamp64\www\wpschool/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.xml
+Widget file = C:\wamp64\www\wpschool/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.wie
+Customizer file = C:\wamp64\www\wpschool/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Правая боковая панель : 
+
+Поиск - No Title - Widget already exists
+RARA: Новые записи - Recent Posts - Imported
+RARA: Популярная запись  - Popular Posts - Imported
+RARA: Соцсети - Follow Us On - Imported
+Рубрики - No Title - Widget already exists
+
+Подвал Один : 
+
+Текст - Education Zone - Imported
+
+Подвал Два : 
+
+RARA: Новые записи - Recent activities - Imported
+
+Подвал Три : 
+
+Меню навигации - Our Courses - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+

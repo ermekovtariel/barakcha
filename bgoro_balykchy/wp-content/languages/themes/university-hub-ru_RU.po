@@ -1,0 +1,935 @@
+# Translation of Themes - University Hub in Russian
+# This file is distributed under the same license as the Themes - University Hub package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-10 10:39:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - University Hub\n"
+
+#. Theme Name of the theme
+msgid "University Hub"
+msgstr "University Hub"
+
+#. Description of the theme
+msgid "University Hub, an Education theme by WEN Themes, is a responsive WordPress theme for university, school, college or other educational institutions. Along with educational institutions, University Hub is flexible and loaded with several features to also cater to the needs of design agencies, corporate websites and small businesses. Official Support Forum: https://themepalace.com/support-forum/ Full Demo: https://wenthemes.com/theme-demos/?demo=university-hub"
+msgstr "University Hub - образовательная тема от WEN Themes, адаптивная тема WordPress для университета, школы, колледжа или другого образовательного учреждения. Не смотря на образовательную ориентированность, University Hub универсальна и наполнена некоторыми функциями, удовлетворяющими нуждам дизайнерских, корпоративных сайтов и малому бизнесу. Форум официальной поддержки: http://themepalace.com/support-forum/ Демо полной версии: http://wenthemes.com/theme-demos/?demo=university-hub"
+
+#: inc/customizer.php:60
+msgid "University Hub Pro"
+msgstr "University Hub Pro"
+
+#: inc/customizer.php:61
+msgid "Buy Pro"
+msgstr "Купить версию Pro"
+
+#: single.php:23
+msgid "Next post:"
+msgstr "Следующая запись"
+
+#: single.php:22
+msgid "Next"
+msgstr "Далее"
+
+#: single.php:25
+msgid "Previous"
+msgstr "Ранее"
+
+#: lib/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, что мы не можем найти то, что Вы ищите. Возможно поиск поможет."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:37
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/home/news-and-events.php:53
+#: template-parts/home/latest-news.php:58
+msgid "0 comments"
+msgstr "0 комментариев  "
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но не найдено соответствий вашему запросу. Попробуйте снова, изменив ключевые слова."
+
+#: single.php:26
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: lib/widget-base/class-widget-base.php:292
+msgctxt "remove button"
+msgid "X"
+msgstr "X"
+
+#: lib/widget-base/class-widget-base.php:281
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: template-parts/home/news-and-events.php:50
+msgctxt "date format"
+msgid "F d, Y"
+msgstr "F d, Y"
+
+#: lib/breadcrumbs/breadcrumbs.php:760 lib/breadcrumbs/breadcrumbs.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumbs/breadcrumbs.php:759 lib/breadcrumbs/breadcrumbs.php:815
+#: lib/breadcrumbs/breadcrumbs.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumbs/breadcrumbs.php:758 lib/breadcrumbs/breadcrumbs.php:787
+#: lib/breadcrumbs/breadcrumbs.php:814 lib/breadcrumbs/breadcrumbs.php:841
+#: lib/breadcrumbs/breadcrumbs.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:256
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:254
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#: lib/widget-base/class-widget-base.php:281
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: template-parts/content.php:43 template-parts/content-page.php:31
+#: template-parts/content-single.php:34
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: lib/widget-base/class-widget-base.php:281
+msgid "Upload"
+msgstr "Загрузить"
+
+#: lib/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#: lib/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: template-parts/home/latest-news.php:54
+msgctxt "date format"
+msgid "j M Y"
+msgstr "d.m.Y"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "Свежие комментарии"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ответа на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ответов на &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один ответ на &ldquo;%s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "В этом разделе ничего не найдено. Может попробовать одну из ссылок ниже или использовать поиск?"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:252
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: lib/breadcrumbs/breadcrumbs.php:250
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поискового запроса на &#8220;%s&#8221;"
+
+#: lib/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr "Архивы"
+
+#: lib/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: lib/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: inc/widgets.php:330
+msgid "UH: Recent Posts"
+msgstr "UH: Свежие записи"
+
+#: inc/widgets.php:324
+msgid "Disable Date"
+msgstr "Отключить дату"
+
+#: inc/widgets.php:316
+msgid "px"
+msgstr "px"
+
+#: inc/widgets.php:314
+msgid "Image Width:"
+msgstr "Ширина изображения:"
+
+#: inc/widgets.php:300
+msgid "Number of Posts:"
+msgstr "Количество записей:"
+
+#: inc/widgets.php:297
+msgid "All Categories"
+msgstr "Все категории"
+
+#: inc/widgets.php:285
+msgid "Displays recent posts."
+msgstr "Показывает свежие записи."
+
+#: inc/widgets.php:163
+msgid "Full"
+msgstr "Целиком"
+
+#: inc/widgets.php:158
+msgid "Show Content:"
+msgstr "Показывать содержимое:"
+
+#: inc/widgets.php:153
+msgid "Eg: 1234"
+msgstr "Например: 1234"
+
+#: inc/widgets.php:152
+msgid "Post ID:"
+msgstr "ID записи:"
+
+#: inc/widgets.php:148
+msgctxt "message"
+msgid "OR"
+msgstr "ИЛИ"
+
+#: inc/widgets.php:72
+msgid "UH: Social"
+msgstr "UH: Соцсети"
+
+#: inc/widgets.php:66
+msgid "Social menu is not set. Please create menu and assign it to Social Menu."
+msgstr "Меню соцсетей не выбрано. Создайте меню и назначьте его как меню соцсети."
+
+#: inc/widgets.php:58 inc/widgets.php:133 inc/widgets.php:290
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/widgets.php:53
+msgid "Displays social icons."
+msgstr "Отображает иконки соцсетей."
+
+#: template-parts/home/news-and-events.php:96 inc/template-tags.php:95
+msgctxt "date format"
+msgid "d"
+msgstr "d"
+
+#: template-parts/home/news-and-events.php:95 inc/template-tags.php:94
+msgctxt "date format"
+msgid "M"
+msgstr "M"
+
+#. Translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:67 inc/template-tags.php:75
+msgid ", "
+msgstr ", "
+
+#: template-parts/home/news-and-events.php:53
+#: template-parts/home/latest-news.php:58 inc/template-tags.php:57
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: template-parts/home/news-and-events.php:53
+#: template-parts/home/latest-news.php:58 inc/template-tags.php:57
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:57
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/metabox.php:80
+msgid "Image Settings"
+msgstr "Параметры изображения"
+
+#: inc/metabox.php:64
+msgid "Single Layout"
+msgstr "Одна разметка"
+
+#: inc/metabox.php:59
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/hook/custom.php:231
+msgid "University Hub by %s"
+msgstr "Тема University Hub от %s"
+
+#: inc/hook/custom.php:17
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+#: inc/hook/basic.php:170
+msgid "Slider Image"
+msgstr "Изображение слайдера"
+
+#: inc/hook/basic.php:169
+msgid "Recommended Image Sizes"
+msgstr "Рекомендуемые размеры изображения"
+
+#: inc/helper/options.php:192
+msgctxt "transition effect"
+msgid "scrollHorz"
+msgstr "горизонтальная прокрутка"
+
+#: inc/helper/options.php:191
+msgctxt "transition effect"
+msgid "none"
+msgstr "нет"
+
+#: inc/helper/options.php:190
+msgctxt "transition effect"
+msgid "fadeout"
+msgstr "затухание"
+
+#: inc/helper/options.php:189
+msgctxt "transition effect"
+msgid "fade"
+msgstr "исчезание"
+
+#: inc/helper/options.php:169
+msgctxt "alignment"
+msgid "Right"
+msgstr "Справа"
+
+#: inc/helper/options.php:168
+msgctxt "alignment"
+msgid "Center"
+msgstr "Центр"
+
+#: inc/helper/options.php:167
+msgctxt "alignment"
+msgid "Left"
+msgstr "Слева"
+
+#: inc/helper/options.php:166
+msgctxt "alignment"
+msgid "None"
+msgstr "Нет"
+
+#: inc/helper/options.php:122
+msgid "Full (original)"
+msgstr "Целиком (оригинал)"
+
+#: inc/helper/options.php:121
+msgid "Large"
+msgstr "Большое"
+
+#: inc/helper/options.php:120
+msgid "Medium"
+msgstr "Среднее"
+
+#: inc/helper/options.php:119
+msgid "Thumbnail"
+msgstr "Эскиз"
+
+#: inc/helper/options.php:117
+msgid "No Image"
+msgstr "Без изображения"
+
+#: inc/helper/options.php:87
+msgid "Full Post"
+msgstr "Статья целиком"
+
+#: inc/helper/options.php:67
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: inc/helper/options.php:66
+msgid "Simple"
+msgstr "Простые"
+
+#: inc/helper/options.php:65 inc/helper/options.php:219
+msgid "Disabled"
+msgstr "Отключено"
+
+#: inc/helper/options.php:45
+msgid "Numeric"
+msgstr "Нумерация"
+
+#: inc/helper/options.php:44
+msgid "Default (Older / Newer Post)"
+msgstr "По умолчанию (статья старее/новее)"
+
+#: inc/helper/options.php:23
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/helper/options.php:22
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/helper/options.php:21
+msgid "Content - Primary Sidebar"
+msgstr "Содержимое - Основной сайдбар"
+
+#: inc/helper/options.php:20
+msgid "Primary Sidebar - Content"
+msgstr "Основной сайдбар - Содержимое"
+
+#: inc/helper/common.php:257
+msgid "Default"
+msgstr "По умолчанию"
+
+#: lib/breadcrumbs/breadcrumbs.php:246 inc/helper/common.php:137
+msgid "Home"
+msgstr "Главная"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: inc/helper/common.php:86
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/customizer.php:52
+msgid "Note: Background Color is applicable only if no image is set as Background Image."
+msgstr "Замечание: цвет фона можно использовать только если не выбрано фоновое изображение."
+
+#: inc/customizer/slider.php:249
+msgid "Enable Autoplay"
+msgstr "Включить автовоспроизведение"
+
+#: inc/customizer/slider.php:217
+msgid "Enable Arrow"
+msgstr "Включить стрелку"
+
+#: inc/customizer/slider.php:201
+msgid "Enable Caption"
+msgstr "Включить подписи"
+
+#: inc/customizer/slider.php:183
+msgid "Transition Duration"
+msgstr "Время перехода"
+
+#: inc/customizer/slider.php:166 inc/customizer/slider.php:184
+msgid "in seconds"
+msgstr "в секундах"
+
+#: inc/customizer/slider.php:165
+msgid "Transition Delay"
+msgstr "Задержка перехода"
+
+#: inc/customizer/slider.php:148
+msgid "Transition Effect"
+msgstr "Эффект перехода"
+
+#: inc/customizer/slider.php:131
+msgid "Slider Options"
+msgstr "Параметры слайдера"
+
+#: inc/customizer/slider.php:77
+msgid "Enter number between 1 and 20. Save and refresh the page if No of Slides is changed."
+msgstr "Введите число от 1 до 20. Сохраните и обновите страницу, если слайды не изменялись."
+
+#: inc/customizer/slider.php:56
+msgid "Select Slider Type"
+msgstr "Выберите тип слайдера"
+
+#: inc/customizer/slider.php:22
+msgid "Slider Type"
+msgstr "Тип слайдера"
+
+#: inc/customizer/option.php:519
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr "Расширенные: требуется плагин %1$sBreadcrumb NavXT%2$s"
+
+#: inc/customizer/option.php:518
+msgid "Breadcrumb Type"
+msgstr "Тип \"хлебных крошек\""
+
+#: inc/customizer/option.php:501
+msgid "Breadcrumb Options"
+msgstr "Параметры \"хлебных крошек\""
+
+#: inc/customizer/option.php:491
+msgid "Enter category ID to exclude in Blog Page. Separate with comma if more than one"
+msgstr "Введите ID категории, чтобы не включать ее на странице блога. Если их несколько, то разделите запятыми."
+
+#: inc/customizer/option.php:490
+msgid "Exclude Categories in Blog"
+msgstr "Исключить категории блога"
+
+#: inc/customizer/option.php:473 inc/customizer/slider.php:119
+msgid "Read More Text"
+msgstr "Текст для \"подробнее\""
+
+#: inc/customizer/option.php:437
+msgid "Blog Options"
+msgstr "Параметры блога"
+
+#: inc/customizer/option.php:410
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer/option.php:392
+msgid "Footer Options"
+msgstr "Параметры подвала"
+
+#: inc/customizer/option.php:381
+msgid "Pagination Type"
+msgstr "Тип перехода по станицам"
+
+#: inc/customizer/option.php:364
+msgid "Pagination Options"
+msgstr "Параметры перехода по станицам"
+
+#: inc/customizer/option.php:354
+msgid "Check this to show page content in Home page."
+msgstr "Отметьте для показа содержимого страницы на главной странице"
+
+#: inc/customizer/option.php:353
+msgid "Show Home Content"
+msgstr "Показывать содержимое главной страницы"
+
+#: inc/customizer/option.php:337
+msgid "Home Page Options"
+msgstr "Параметры главной страницы"
+
+#: inc/customizer/option.php:274
+msgid "Archive Layout"
+msgstr "Разметка у архивов"
+
+#: inc/customizer/option.php:257
+msgid "Global Layout"
+msgstr "Глобальная разметка"
+
+#: inc/customizer/option.php:291
+msgid "Image in Archive"
+msgstr "Изображение у архивов"
+
+#: inc/customizer/option.php:230
+msgid "Enable Search Form"
+msgstr "Включить поисковую форму"
+
+#: inc/customizer/option.php:214 inc/customizer/option.php:427
+msgid "Show Social Icons"
+msgstr "Показывать иконки соцсетей"
+
+#: inc/customizer/option.php:197
+msgid "Contact Address 2"
+msgstr "Контактный адрес (2-я строка)"
+
+#: inc/customizer/option.php:180
+msgid "Contact Address 1"
+msgstr "Контактный адрес (1-я строка)"
+
+#: inc/customizer/option.php:163
+msgid "Contact Email"
+msgstr "Контактный адрес электронной почты"
+
+#: inc/customizer/option.php:146
+msgid "Contact Number"
+msgstr "Контактный телефон"
+
+#: inc/customizer/option.php:55
+msgid "Show Tagline"
+msgstr "Показывать строку описания сайта"
+
+#: inc/customizer/option.php:39
+msgid "Show Site Title"
+msgstr "Показывать название сайта"
+
+#: inc/customizer/option.php:22
+msgid "Header Options"
+msgstr "Параметры шапки"
+
+#: inc/customizer/option.php:13
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: inc/customizer/slider.php:39
+msgid "Enable Slider On"
+msgstr "Включение слайдера"
+
+#: inc/customizer/option.php:455 inc/customizer/home-sections.php:411
+msgid "in words"
+msgstr "в словах"
+
+#: inc/customizer/home-sections.php:392
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: inc/customizer/home-sections.php:337
+msgid "Columns"
+msgstr "Колонок"
+
+#: inc/metabox.php:58 inc/customizer/home-sections.php:319
+#: inc/customizer/home-sections.php:323
+msgid "Layout"
+msgstr "Разметка"
+
+#: inc/customizer/home-sections.php:275
+msgid "Secondary Button URL"
+msgstr "URL дополнительной кнопки"
+
+#: inc/customizer/home-sections.php:258
+msgid "Secondary Button Text"
+msgstr "Текст дополнительной кнопки"
+
+#: inc/customizer/home-sections.php:241
+msgid "Primary Button URL"
+msgstr "URL основной кнопки"
+
+#: inc/customizer/home-sections.php:224
+msgid "Primary Button Text"
+msgstr "Текст основной кнопки"
+
+#: inc/customizer/home-sections.php:173 inc/helper/options.php:306
+msgid "Call To Action"
+msgstr "Призыв"
+
+#: inc/customizer/home-sections.php:162
+msgid "Events Category"
+msgstr "Категории событий"
+
+#: inc/customizer/home-sections.php:143
+msgid "No of Events"
+msgstr "Количество событий"
+
+#: inc/customizer/home-sections.php:126
+msgid "Events Title"
+msgstr "Название событий"
+
+#: inc/customizer/home-sections.php:108
+msgid "News Category"
+msgstr "Категория новостей"
+
+#: inc/customizer/home-sections.php:89
+msgid "No of News"
+msgstr "Количество новостей"
+
+#: inc/customizer/home-sections.php:72
+msgid "News Title"
+msgstr "Название новостей"
+
+#: inc/customizer/home-sections.php:55 inc/helper/options.php:302
+msgid "News and Events"
+msgstr "Новости и события"
+
+#: inc/customizer/home-sections.php:43
+msgid "Toggle sections"
+msgstr "Включение разделов"
+
+#: inc/customizer/home-sections.php:22
+msgid "Manage Sections"
+msgstr "Управление разделами"
+
+#: inc/customizer/home-sections.php:13
+msgid "Homepage Sections"
+msgstr "Разделы главной страницы"
+
+#: inc/customizer/default.php:101
+msgid "Read More"
+msgstr "Читать полностью"
+
+#: inc/customizer/default.php:80 inc/customizer/home-sections.php:285
+#: inc/helper/options.php:310
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: inc/customizer/default.php:76
+msgid "Online Tour"
+msgstr "Виртуальная экскурсия"
+
+#: template-parts/home/latest-news.php:46 inc/customizer/default.php:74
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: inc/customizer/default.php:73
+msgid "Every undergraduate student is eligible to receive a fellowship of up to $10,000 for a summer internship or faculty-mentored research project. Find your opportunity, make your case for how it fits your academic plans, and we will help fund it."
+msgstr "Выберите направление обучения и получите специальность. Каждый выпускник может быть трудоустроен. Мы Вам в этом поможем."
+
+#: inc/customizer/default.php:72
+msgid "Join Our University"
+msgstr "Поступайте в наш университет"
+
+#: inc/customizer/default.php:67
+msgid "Events"
+msgstr "События"
+
+#: inc/customizer/default.php:64
+msgid "News"
+msgstr "Новости"
+
+#: inc/customizer/default.php:54
+msgid "Read more"
+msgstr "Подробнее"
+
+#: inc/customizer/default.php:49
+msgid "Copyright &copy; All rights reserved."
+msgstr "Авторское право &copy; Все права защищены."
+
+#: inc/customizer/default.php:25
+msgid "News:"
+msgstr "Новости:"
+
+#: functions.php:37
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: functions.php:38
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: functions.php:107
+msgid "Secondary Sidebar"
+msgstr "Дополнительная боковая панель"
+
+#: functions.php:100
+msgid "Add widgets here to appear in your Primary Sidebar."
+msgstr "Добавьте виджеты сюда для отображения на основной боковой панели"
+
+#: functions.php:98
+msgid "Primary Sidebar"
+msgstr "Основная боковая панель"
+
+#: functions.php:40
+msgid "404 Menu"
+msgstr "Меню 404"
+
+#: functions.php:39
+msgid "Social Menu"
+msgstr "Меню соцсетей"
+
+#: lib/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "\"Хлебные крошки\""
+
+#: inc/widgets.php:295
+msgid "Select Category:"
+msgstr "Выбрать категорию:"
+
+#: inc/widgets.php:143
+msgid "Select Page:"
+msgstr "Выбрать страницу:"
+
+#: inc/widgets.php:181
+msgid "Image Alignment:"
+msgstr "Выравнять изображения:"
+
+#: inc/widgets.php:168
+msgid "Applies when Excerpt is selected in Content option."
+msgstr "Применяется, когда выбрана выдержка в разделе контента."
+
+#: inc/support/footer-widgets.php:109
+msgid "Footer Widget %d"
+msgstr "Виджет подвала %d"
+
+#: inc/helper/options.php:218
+msgid "Static Front Page Only"
+msgstr "Только статичная главная страница"
+
+#: inc/helper/options.php:88
+msgid "Post Excerpt"
+msgstr "Выдержка из статьи"
+
+#: inc/customizer/slider.php:233
+msgid "Enable Pager"
+msgstr "Включить выбор страницы"
+
+#: inc/customizer/slider.php:76
+msgid "No of slides"
+msgstr "Количество слайдов"
+
+#: inc/metabox.php:82 inc/customizer/option.php:326
+msgid "Image in Single Post/Page"
+msgstr "Изображение у отдельной статьи/страницы"
+
+#: inc/customizer/option.php:308
+msgid "Image Alignment in Archive"
+msgstr "Выравнивание изображения у архивов"
+
+#: inc/customizer/home-sections.php:374
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+#: inc/customizer/home-sections.php:355
+msgid "No of Blocks"
+msgstr "Количество блоков"
+
+#: inc/customizer/control.php:173 inc/widgets.php:145
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Выбрать &mdash;"
+
+#: functions.php:109
+msgid "Add widgets here to appear in your Secondary Sidebar."
+msgstr "Добавьте виджеты сюда для отображения на дополнительной боковой панели"
+
+#: inc/metabox.php:22
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/widgets.php:128
+msgid "Displays single featured Page or Post."
+msgstr "Отображает одну избранную Страницу или Запись."
+
+#: inc/widgets.php:188
+msgid "UH: Featured Page"
+msgstr "UH: Избранная страница"
+
+#: inc/helper/options.php:243
+msgid "Featured Pages"
+msgstr "Избранные страницы"
+
+#: inc/customizer/slider.php:13
+msgid "Featured Slider"
+msgstr "Слайдер избранного"
+
+#: inc/customizer/slider.php:99
+msgid "Featured Page"
+msgstr "Избранная страница"
+
+#: inc/widgets.php:176 inc/widgets.php:308
+msgid "Featured Image:"
+msgstr "Избранное изображение:"
+
+#: inc/customizer/option.php:454 inc/customizer/home-sections.php:410
+msgid "Excerpt Length"
+msgstr "Длина выдержки"
+
+#: inc/customizer/option.php:240
+msgid "Layout Options"
+msgstr "Варианты разметки"
+
+#: inc/customizer/option.php:127
+msgid "Number of Posts"
+msgstr "Количество записей"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "О-о! Этой страницы нет на сайте."
+
+#: inc/customizer/option.php:72
+msgid "Show News Ticker"
+msgstr "Показывать оповещатель новостей"
+
+#: inc/customizer/option.php:108
+msgid "Ticker Category"
+msgstr "Категория оповещателя"
+
+#: inc/customizer/option.php:89
+msgid "Ticker Title"
+msgstr "Заголовок оповещателя"
+
+#: inc/widgets.php:138
+msgid "Use Page/Post Title as Widget Title"
+msgstr "Использовать название страницы/записи как название виджета"
+
+#: inc/widgets.php:162
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/widgets.php:167
+msgid "Excerpt Length:"
+msgstr "Длина отрывка:"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/customizer/home-sections.php:190 inc/customizer/home-sections.php:302
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/home-sections.php:207
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: template-parts/content-page.php:39 inc/template-tags.php:82
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/metabox.php:62
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#. Author URI of the theme
+msgid "https://wenthemes.com/"
+msgstr "https://wenthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://wenthemes.com/item/wordpress-themes/university-hub/"
+msgstr "https://wenthemes.com/item/wordpress-themes/university-hub/"
+
+#. Author of the theme
+#: inc/hook/custom.php:231
+msgid "WEN Themes"
+msgstr "WEN Themes"

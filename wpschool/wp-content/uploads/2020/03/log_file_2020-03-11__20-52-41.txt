@@ -1,0 +1,13 @@
+
+---Downloaded files---
+The import files for: School Zone Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wpschool
+Data file = C:\wamp64\www\wpschool/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.xml
+Widget file = C:\wamp64\www\wpschool/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.wie
+Customizer file = C:\wamp64\www\wpschool/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.dat
+
+------
+Completed AJAX call number: 1
+

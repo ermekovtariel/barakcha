@@ -1,0 +1,28 @@
+.site-description.ml-1.mb-1 {
+  font-size: 11px;
+  right: -5px;
+  left: 0px;
+}
+
+img {
+  right: 10px;
+  left: 0px;
+  float: none;
+  position: relative;
+  top: -1px;
+}
+
+span {
+  right: -2px;
+  left: 2px;
+  padding-right: -5px;
+  position: relative;
+  top: 0px;
+}
+
+.header .language {
+  padding-right: 0px;
+  right: -353px;
+  left: 1046px;
+  position: absolute;
+}
